@@ -8,6 +8,7 @@
 - **fde-finance-agents** (coming soon): five agent projects for finance, starting with a RAG risk agent on public CVM data. Each module will state its status honestly.
 - **[tae-capstones](https://github.com/fgatti01/tae-capstones)**: four capstones from The AI Engineer course: gradient descent, backpropagation, a tiny Transformer, an MCP incident agent.
 - **[fmp-financial-analytics](https://github.com/fgatti01/fmp-financial-analytics)**: financial analytics on the FMP API: CFA/FRM/CQF metrics (VaR, CVaR, duration, Sharpe) with AI agents.
+- **[vectorbtpro-agents](https://github.com/fgatti01/vectorbtpro-agents)**: multi-agent assistant for vectorbtpro strategy development and backtesting, with a Next.js web UI.
 
 ## Stack
-Python, pytest, RAG and agent frameworks, TypeScript/React for dashboards.
+Python, pytest, RAG and agent frameworks, TypeScript/Next.js for interfaces.
