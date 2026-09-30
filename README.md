@@ -1,8 +1,10 @@
 # Fernando Gatti
 
-**Forward-deployed engineer for AI in finance** | São Paulo, Brazil
+**Forward Deployed Engineer | Applied AI** | São Paulo, Brazil
 
-18 years in investments and funds, 6 of them as a risk manager. I build Python systems that put LLM agents to work on real financial workflows: risk, credit, compliance and reporting. I care about evaluation, cost and honest limits more than demos.
+18 years in investments and funds, 6 of them as a risk manager. I build Python systems that put LLM agents to work on real workflows, with finance as my strongest domain: risk, credit, compliance and reporting. I care about evaluation, cost and honest limits more than demos.
+
+Completed The AI Engineer (TAE) by The Python Quants, June 2026.
 
 ## What I'm building
 - **fde-finance-agents** (coming soon): five agent projects for finance, starting with a RAG risk agent on public CVM data. Each module will state its status honestly.
